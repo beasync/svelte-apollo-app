@@ -9,7 +9,7 @@ A sample [Svelte 3](https://svelte.dev) app to demonstrate usage of GraphQL Quer
   [![Deploy to
   heroku](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fhasura%2fgraphql-engine%2fmaster%2finstall-manifests%2fazure-container-with-pg%2fazuredeploy.json)
 
-  Please checkout our [docs](https://docs.hasura.io/1.0/graphql/manual/deployment/index.html) for other deployment methods
+  Please checkout the [docs](https://docs.hasura.io/1.0/graphql/manual/deployment/index.html) for other deployment methods
 
 - Get the Container Instance URL (say `my-app.westus.azurecontainer.io`)
 - Create `author` table:
